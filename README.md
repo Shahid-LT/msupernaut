@@ -1,6 +1,8 @@
 preview
 <h1 align="center">Hi 👋, I'm Maneesh Sharma</h1>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2tfjeisvath8o89qulrej3wjf&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msupernaut&label=Profile%20views&color=0e75b6&style=flat" alt="msupernaut" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=msupernaut" alt="msupernaut" /></a> </p>
